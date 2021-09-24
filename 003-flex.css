@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+}
+.contain:hover {
+  background-color: rgb(39, 72, 100);
+  color: white;
+}
+.contain {
+  background-color: rgb(127, 169, 206);
+  border: 1px solid rgb(61, 57, 57);
+  padding: 5px;
+  margin-top: 10px;
+}
+.kutu1 {
+  text-align: right;
+
+  flex: 4;
+}
+.kutu2 {
+  flex: 2;
+}
+.kutu3 {
+  flex: 3;
+}
+.kutu4 {
+  flex: 3;
+}
+.kutu5 {
+  flex: 4;
+}
